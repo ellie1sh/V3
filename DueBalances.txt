@@ -1,0 +1,9 @@
+=============Student Balances and Payments Updates=============
+Format: StudentID,AmountDue,RemainingBalance
+
+INIT:2251834,6830,23813
+INIT:2252432,6830,23813
+INIT:2250136,0,10153
+INIT:2254153,6830,23813
+
+
